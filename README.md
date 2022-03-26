@@ -90,8 +90,8 @@ Commands that use imggb key : readqr, readbarcode, ceknsfw, cekusia, ocr, wait, 
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
-Get Apikey zenz on [`zenz`](https://api.lolhuman.xyz/pricing)
+Editing Number Owner & session name in [`config.js`](https://github.com/clicknetcafe/zerenbot-md/blob/master/config.js)
+Get Apikey LolHuman on [`lolhuman`](https://api.lolhuman.xyz/pricing)
 
 
 ## Thanks To
