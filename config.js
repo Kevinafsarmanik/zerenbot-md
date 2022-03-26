@@ -18,7 +18,8 @@ global.APIKeys = {
 }
 
 // Other (apikey isi disini)
-global.LolApiKey = '260153ea4dfab79e14a9c7ae'
+// Ganti imgbb key kalo fitur ini gabisa (ceknsfw, cekusia, ocr, wait, wmit, trigger, dll)
+global.LolApiKey = '260153ea5dfab79914a9c7ae'
 global.Imgbb = '7b2fde1f55b9a594d5db403f0a0c2712'
 global.owner = ['6282337245566']
 global.premium = ['6282337245566']
