@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# BunnyWalker-Bot
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -7,7 +7,7 @@ This Script is for everyone
 <p align="center">
 	<img src="https://i.ibb.co/tmQVScZ/zero.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">Zerenity Multi Device</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
