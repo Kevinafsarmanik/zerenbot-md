@@ -30,6 +30,7 @@ git clone https://github.com/clicknetcafe/zerenbot-md
 cd zerenbot-md
 npm install
 npm install jimp
+npm install @bochilteam/scraper
 ```
 
 ## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
@@ -54,6 +55,7 @@ npm install
 npm install imgbb-uploader
 npm install jimp
 npm install libwebp
+npm install @bochilteam/scraper
 ```
 
 ## IF ERROR INSTALL MODULE FOR TERMUX
