@@ -20,8 +20,8 @@ global.APIKeys = {
 // Other (apikey isi disini)
 global.LolApiKey = '260153ebafab79e14a9c7ae'
 global.Imgbb = '7b2fde1f55b9a594d5db403f0a0c2712'
-global.owner = ['6282337245566']
-global.premium = ['6282337245566']
+global.owner = ['6283802905703']
+global.premium = ['6283802905703']
 global.packname = 'BunnyWalker'
 global.author = 'Bot'
 global.sessionName = 'hisoka'
